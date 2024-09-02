@@ -9,7 +9,7 @@ import { RegisterComponent } from './pages/register/register.component';
 import { AboutUsComponent } from './pages/about-us/about-us.component';
 
 export const routes: Routes = [
-    {path: 'home', component: HomeComponent},
+    {path: '', component: HomeComponent},
     {path: 'contact-us', component:ContactUsComponent},
     {path: 'blog', component:BlogComponent},
     {path: 'register-form', component:RegisterFormComponent},
@@ -20,5 +20,5 @@ export const routes: Routes = [
 
 
 
-  
+
 ];
