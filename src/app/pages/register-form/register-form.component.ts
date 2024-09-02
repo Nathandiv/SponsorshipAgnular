@@ -11,4 +11,6 @@ import { FooterComponent } from '../../UI/Shared-UI/footer/footer.component';
 })
 export class RegisterFormComponent {
 
+  
+
 }
